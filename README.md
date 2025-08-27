@@ -9,7 +9,8 @@
 <h2>📚Studies</h2>
   <br>
     <div>
-  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=LaianeSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>     
+  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=LaianeSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaianeSousa&layout=compact&hide_border=true&title_color=7246BA&text_color=c9d1d9&bg_color=0d1117" />
   </div>
 <h2>💻Tech</h2>
   <div align='inline'>
