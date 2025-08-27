@@ -21,7 +21,7 @@
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
   
   </div>
-----------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> Estudante de engenharia de computação, atuo com desenvolvimento web e engenharia de dados, criando soluções modernas, escaláveis e orientadas por dados, utilizando as tecnologias mais recentes do mercado.
 
